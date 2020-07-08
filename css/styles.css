@@ -1,0 +1,11 @@
+.text{
+  background-color: #DCDCDC;
+  margin-bottom: 100px;
+  margin-top: auto;
+}
+img {
+  filter: grayscale(100%);
+}
+.credits{
+   padding-top: 100px;
+}
